@@ -1,0 +1,12 @@
+# PHP ignore list
+
+# Profile Photos Uploads
+/assets/uploads/*
+
+# Config Files
+/includes/config.php
+
+# images
+# /assets/img/*
+
+
